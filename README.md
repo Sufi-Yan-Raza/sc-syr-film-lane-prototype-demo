@@ -4,9 +4,9 @@
 
   <h2 align="center">Filmlane - Movie website</h2>
 
-  Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Filmlane is a fully responsive movie website page, <br />Responsive for all devices.
 
-  <a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+  <a href="https://syr-film-lane-prototype-demo.vercel.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -29,18 +29,14 @@ To run **Filmlane** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
+sudo git clone https://github.com/Sufi-Yan-Raza/sc-syr-film-lane-prototype-demo.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/filmlane.git
+git clone https://github.com/Sufi-Yan-Raza/sc-syr-film-lane-prototype-demo.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
